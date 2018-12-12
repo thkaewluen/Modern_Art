@@ -22,6 +22,5 @@ void draw() {
   rect(200,300,150,200);
   fill(#8E1B8C);
   ellipse(20,20,150,150);
-  save("THAMMARAK.Curiosity.Drawing.png");
 
 }
